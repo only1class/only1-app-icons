@@ -1,0 +1,19 @@
+{
+  "name": "다 했어요",
+  "short_name": "다 했어요",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#FFC107",
+  "icons": [
+    {
+      "src": "https://only1class.github.io/only1-app-icons/done_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://only1class.github.io/only1-app-icons/done_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
