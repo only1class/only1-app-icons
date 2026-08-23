@@ -1,0 +1,14 @@
+{
+  "id": "./happy",
+  "name": "Happy앱",
+  "short_name": "Happy앱",
+  "start_url": "./happy.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2e9f6b",
+  "icons": [
+    { "src": "./happy_192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./happy_512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

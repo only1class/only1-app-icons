@@ -1,0 +1,14 @@
+{
+  "id": "./virtue",
+  "name": "미덕숲",
+  "short_name": "미덕숲",
+  "start_url": "./virtue.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4d8f49",
+  "icons": [
+    { "src": "./virtue_192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./virtue_512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
