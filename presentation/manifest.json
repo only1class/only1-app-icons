@@ -1,0 +1,18 @@
+{
+  "id": "/only1-app-icons/presentation/",
+  "name": "발표ON",
+  "short_name": "발표ON",
+  "start_url": "/only1-app-icons/presentation/",
+  "scope": "/only1-app-icons/presentation/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#e53935",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/only1-app-icons/presentation-on-icon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ]
+}
